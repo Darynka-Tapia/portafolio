@@ -90,7 +90,7 @@
               <img class="card-img-top" src="proyectos/portafolio.png" alt="" ><br><br>
               <center>
               	<h5>Portafolio</h5>
-                <a href="" target="_blank"><i class="fab fa-github fa-3x" ></i></a><br><br>
+                <a href="https://github.com/Darynka-Tapia/portafolio" target="_blank"><i class="fab fa-github fa-3x" ></i></a><br><br>
                 <button type="button" class="btn btn-outline-success" data-toggle="modal" data-target="#Proyecto1">Más detalles</button>
               </center>
             </div>
