@@ -15,7 +15,6 @@
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
       </div>
     </div>
   </div>  
@@ -35,10 +34,12 @@
         <span class="badge badge-info">HTML5</span>
         <span class="badge badge-info">CSS3</span> 
         <span class="badge badge-info">Bootstrap</span>
+        <span class="badge badge-info">Ajax</span>
+        <span class="badge badge-info">PHP</span>
+        <span class="badge badge-info">SQL</span>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
       </div>
     </div>
   </div>
@@ -58,10 +59,12 @@
         <span class="badge badge-info">HTML5</span>
         <span class="badge badge-info">CSS3</span> 
         <span class="badge badge-info">Bootstrap</span>
+        <span class="badge badge-info">Java Script</span>
+        <span class="badge badge-info">PHP</span>
+        <span class="badge badge-info">SQL</span>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
       </div>
     </div>
   </div>
@@ -81,10 +84,12 @@
         <span class="badge badge-info">HTML5</span>
         <span class="badge badge-info">CSS3</span> 
         <span class="badge badge-info">Bootstrap</span>
+        <span class="badge badge-info">JavaScript</span>
+        <span class="badge badge-info">PHP</span>
+        <span class="badge badge-info">SQL</span>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
       </div>
     </div>
   </div>
@@ -103,11 +108,12 @@
         <img src="proyectos/Horarios.png" alt="" style="width: 100%;"><br><br>
         <span class="badge badge-info">HTML5</span>
         <span class="badge badge-info">CSS3</span> 
-        <span class="badge badge-info">Bootstrap</span>
+        <span class="badge badge-info">Javascript</span>
+        <span class="badge badge-info">PHP</span>
+        <span class="badge badge-info">SQL</span>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
       </div>
     </div>
   </div>
@@ -124,13 +130,11 @@
       </div>
       <div class="modal-body">
         <img src="proyectos/tetes.png" alt="" style="width: 100%;"><br><br>
-        <span class="badge badge-info">HTML5</span>
-        <span class="badge badge-info">CSS3</span> 
-        <span class="badge badge-info">Bootstrap</span>
+        <span class="badge badge-info">HTML</span>
+        <span class="badge badge-info">CSS</span> 
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
       </div>
     </div>
   </div>
@@ -149,11 +153,12 @@
         <img src="proyectos/zihuala.png" alt="" style="width: 100%;"><br><br>
         <span class="badge badge-info">HTML5</span>
         <span class="badge badge-info">CSS3</span> 
-        <span class="badge badge-info">Bootstrap</span>
+        <span class="badge badge-info">JavaScript</span>
+        <span class="badge badge-info">PHP</span>
+        <span class="badge badge-info">SQL</span>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
       </div>
     </div>
   </div>
